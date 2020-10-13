@@ -1,6 +1,6 @@
 # Demo
 
-Some text
+My first git Repo uploaded from VS console.
 
 Adding some more
 
