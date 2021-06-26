@@ -1,1 +1,2 @@
 doc created by user 1
+this line inserted by user 2
